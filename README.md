@@ -68,6 +68,6 @@ Feel free to submit pull requests or open issues if you have any suggestions!
 
 📧 Contact
 
-For any questions or collaborations, reach out at [Your Email].
+For any questions or collaborations, reach out at [parlhadjadhav7@gmail.com].
 
 ⭐ If you found this project useful, please give it a s

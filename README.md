@@ -52,7 +52,7 @@ Open Excel and go to File > Options > Trust Center > Trust Center Settings > Ena
 
 📷 Screenshots
 
-![Dashboard Screenshot]("C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2025-02-06 165710.png")
+![Dashboard Screenshot](dashboard.png)
 
 
 🎯 Future Improvements
